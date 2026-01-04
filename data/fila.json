@@ -1,0 +1,23 @@
+{
+  "ultimoId": 6,
+  "pacientes": [
+    {
+      "id": 4,
+      "nome": "Teste 2",
+      "sala": "1",
+      "timestamp": "2026-01-04T20:14:50.447Z"
+    },
+    {
+      "id": 5,
+      "nome": "Teste 3",
+      "sala": "1",
+      "timestamp": "2026-01-04T20:14:55.421Z"
+    },
+    {
+      "id": 6,
+      "nome": "Teste 4",
+      "sala": "2",
+      "timestamp": "2026-01-04T20:15:03.192Z"
+    }
+  ]
+}
